@@ -8,7 +8,8 @@ An OpenAI API key (store it as OPENAI_API_KEY environment variable or edit appse
 
 **To Run:**
 
-Download the provided .zip file containing the project.
+Clone reporsitory
+
 Open command prompt
 Navigate to the project folder. For example:
 	cd ..\SynapseHealth\SynapseHealth\bin\Release\net8.0
